@@ -1,0 +1,11 @@
+pycocotools
+tensorboard
+tqdm
+matplotlib 
+h5py 
+nltk
+einops
+hydra-core==1.1.0
+spacy
+timm
+ lmdb
